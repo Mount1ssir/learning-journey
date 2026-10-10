@@ -1,3 +1,0 @@
-interface Elements {
-	void render();
-}
